@@ -15,17 +15,17 @@
 
 
 미완성
-1. 기간별 성과비교 백테스팅 [코드]()
-2. 상한가 따라잡기 [코드]()
-3. 페어 트레이딩 [코드]()
+1. 기간별 성과비교 백테스팅 
+2. 상한가 따라잡기 
+3. 페어 트레이딩
 
 ---
 #### 리밸런싱
 완성
-1. 패시브 포트폴리오 리밸런싱 비율 계산 [마크다운](research/PassivePortpolio.md) / [코드](research/AutoPortpolioPassive.ipynb)
+1. 패시브 포트폴리오 리밸런싱 비율 계산 [마크다운](doc/PassivePortpolio.md) / [코드](research/rebalance/PassivePortpolio.ipynb)
 
 미완성
-1. 액티브 포트폴리오 리밸런싱 비율 계산 [마크다운]() / [코드]()
+1. 액티브 포트폴리오 리밸런싱 비율 계산
 
 ---
 #### 시스템 구축(구상중입니다)
