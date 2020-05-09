@@ -11,7 +11,7 @@
 ---
 #### 투자전략 백테스트
 완성
-1. 켈리 베팅 [코드](research/backtest/BettingSize.ipynb)
+1. 켈리 베팅 [코드](research/backtest/KellyBettingSize.ipynb)
 
 
 미완성

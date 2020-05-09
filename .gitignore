@@ -1,0 +1,12 @@
+# jupyter checkpoint
+.ipynb_checkpoints/
+
+# data
+data/
+
+# draft folder
+drafts/
+
+# API
+cert.json
+test/
